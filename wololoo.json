@@ -1,0 +1,20 @@
+{
+  "credentials": [
+    {"username": "cocotelopez", "password": "Fecari12#"}
+  ],
+  "actions": [
+    "Venta o promo",
+    "Info falsa",
+    "Simplemente no me gusta",
+    "Bullying o contacto no deseado",
+    "Estafa, fraude o spam"
+  ],
+  "actionsCuenta": [
+    "Es spam",
+    "fraude",
+    "Simplemente no me gusta",
+    "ilegales o regulados",
+    "falsa"
+  ]
+}
+
